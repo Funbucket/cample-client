@@ -7,7 +7,6 @@ const TopNavigation = () => {
   const navigation = useNavigationValue()
 
   if (!navigation.top) {
-    console.log('navigation.top is null')
     return null
   }
 
