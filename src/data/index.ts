@@ -1,0 +1,1 @@
+export { markerdata } from './markerData'
